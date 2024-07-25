@@ -1,0 +1,36 @@
+/* sidebar.css */
+aside {
+	width: 250px;
+	padding: 10px;
+	background-color: #f4f4f4;
+	border-right: 1px solid #ddd;
+  }
+  
+  .node {
+	padding: 10px;
+	margin: 10px 0;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	cursor: grab;
+  }
+  
+  .node-start {
+	background-color: #e0f7fa;
+  }
+  
+  .node-if {
+	background-color: #e1bee7;
+  }
+  
+  .node-assign {
+	background-color: #d1c4e9;
+  }
+  
+  .node-log {
+	background-color: #c5cae9;
+  }
+  
+  .node-end {
+	background-color: #b2ebf2;
+  }
+  
